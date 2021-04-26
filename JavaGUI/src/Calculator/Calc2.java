@@ -212,7 +212,7 @@ public class Calc2 extends JFrame implements ActionListener {
 				e1.printStackTrace();
 			}
 		}  else if(input.equals("학생 정보")) {
-			JOptionPane.showMessageDialog(null, "202045071_공연성_컴퓨터시스템학과_C반");
+			JOptionPane.showMessageDialog(null, "학생정보입력");
 		}
 	}
 }
